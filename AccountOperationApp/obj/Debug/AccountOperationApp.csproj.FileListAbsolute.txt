@@ -1,0 +1,9 @@
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
